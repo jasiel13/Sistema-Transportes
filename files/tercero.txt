@@ -1,0 +1,3 @@
+Traer un contenido con Ajax al pulsar un enlace
+En este sencillo ejemplo haremos llamada a Ajax, para traer un contenido, cuando se pulse un enlace. Esto lo hemos puesto en marcha en el servidor de DesarrolloWeb.com y lo puedes ver en una página aparte.
+Aquí podemos ver el enlace, al que ponemos un identificador (atributo id) para seleccionarlo desde jQuery.

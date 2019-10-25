@@ -1,0 +1,9 @@
+Una de las ventajas de los frameworks Javascript
+ es que nos permiten desarrollar scripts que
+ hacen uso de Ajax de una manera muy fácil y 
+encima, sin tener que complicarnos la vida con la
+ compatibilidad entre distintos navegadores. 
+Sin duda, cualquier persona que sepa un poco de Javascript, podría en poco tiempo empezar a utilizar Ajax con alguno de estos frameworks. Nosotros vamos a demostrar cómo es de sencillo en jQuery.
+
+
+
